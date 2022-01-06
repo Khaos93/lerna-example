@@ -11,7 +11,7 @@
     "install": "lerna bootstrap",
     "install-hoist": "lerna bootstrap --hoist",
     "clean": "lerna clean",
-    "version": "lerna version --conventional-commits",
+    "version": "lerna version --conventional-commits --yes",
     "publish": "lerna publish",
     "ls": "lerna ls"
   }
