@@ -16,4 +16,5 @@ module.exports = () => {
   
   console.log("feature V4");
   console.log("feature V5");
+  console.log("feature V5");
 };
