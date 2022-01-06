@@ -16,5 +16,8 @@
     "react-scripts": "1.1.4",
     "react-tournament-bracket": "0.1.0"
   },
-  "gitHead": "6620f83da8db45ba9759e9590440917995109ad8"
+  "gitHead": "ab0b786657ca545cf79af67dac74970948850a66",
+  "publishConfig": {
+    "access": "public"
+  }
 }
