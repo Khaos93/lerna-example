@@ -1,5 +1,5 @@
 {
-  "name": "@lerna/common",
+  "name": "@lernaworkshop/common",
   "version": "1.1.0",
   "main": "index.js",
   "scripts": {
