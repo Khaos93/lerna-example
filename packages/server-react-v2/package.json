@@ -1,20 +1,20 @@
 {
   "name": "server-react2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "juan castro <juan.castro@geniussports.com>",
   "homepage": "https://github.com/Khaos93/lerna-example#readme",
   "license": "ISC",
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/styles": "latest",
     "jsog": "1.0.7",
     "react": "16.3.2",
     "react-dom": "16.3.2",
     "react-scripts": "1.1.4",
-    "react-tournament-bracket": "0.1.0",
-    "@material-ui/core": "latest",
-    "@material-ui/icons": "latest",
-    "@material-ui/styles": "latest"
+    "react-tournament-bracket": "0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
