@@ -1,10 +1,10 @@
 {
   "name": "@lernaworkshop/server",
-  "version": "1.1.9",
+  "version": "1.1.8",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@lernaworkshop/common": "^1.2.1",
+    "@lernaworkshop/common": "^1.2.0",
     "babel-core": "^6.26.3",
     "graphql-yoga": "^1.14.7"
   },
