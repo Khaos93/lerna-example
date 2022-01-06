@@ -1,10 +1,10 @@
 {
   "name": "@lerna/server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@lerna/common": "1.0.0",
+    "@lerna/common": "^1.0.1",
     "graphql-yoga": "^1.14.7"
   },
   "scripts": {
