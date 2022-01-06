@@ -6,6 +6,7 @@
   },
   "scripts": {
     "test": "lerna run test",
+    "testWithScope": "lerna run test --scope={@lernaworkshop/common,@lernaworkshop/server}",
     "new-version": "lerna version",
     "diff": "lerna diff",
     "changed": "lerna changed",
@@ -16,6 +17,7 @@
     "publish": "lerna publish from-package",
     "ls": "lerna ls",
     "list": "lerna list --json",    
-    "list-graph": "lerna list --graph"
+    "list-graph": "lerna list --graph",     
+    "runScope": "lerna run start --scope=server-react"
   }
 }

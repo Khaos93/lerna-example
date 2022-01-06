@@ -19,7 +19,7 @@
   "scripts": {
     "start": "PORT=3001 react-scripts start",
     "build": "react-scripts build",
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo testing server with version: $npm_package_version"
   },
   "bugs": {
     "url": "https://github.com/Khaos93/lerna-example/issues"
