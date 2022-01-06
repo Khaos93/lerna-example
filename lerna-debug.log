@@ -1,0 +1,17 @@
+0 silly argv { _: [ 'run' ], lernaVersion: '4.0.0', '$0': 'lerna', script: 'build' }
+1 notice cli v4.0.0
+2 verbose rootPath /home/juancastro/try-lerna
+3 info versioning independent
+4 error JSONError: Unexpected token "}" (0x7D) in JSON at position 684 while parsing near "...t-scripts build\",\n  },\n  \"bugs\": {\n    \"..." in packages/server-react-v2/package.json
+4 error
+4 error [0m [90m 21 |[39m     [32m"test"[39m[33m:[39m [32m"echo \"Error: run tests from root\" && exit 1"[39m[33m,[39m[0m
+4 error [0m [90m 22 |[39m     [32m"build"[39m[33m:[39m [32m"react-scripts build"[39m[33m,[39m[0m
+4 error [0m[31m[1m>[22m[39m[90m 23 |[39m   }[33m,[39m[0m
+4 error [0m [90m    |[39m   [31m[1m^[22m[39m[0m
+4 error [0m [90m 24 |[39m   [32m"bugs"[39m[33m:[39m {[0m
+4 error [0m [90m 25 |[39m     [32m"url"[39m[33m:[39m [32m"https://github.com/Khaos93/lerna-example/issues"[39m[0m
+4 error [0m [90m 26 |[39m   }[0m
+4 error
+4 error     at parseJson (/home/juancastro/try-lerna/node_modules/parse-json/index.js:29:21)
+4 error     at parse (/home/juancastro/try-lerna/node_modules/load-json-file/index.js:15:9)
+4 error     at module.exports (/home/juancastro/try-lerna/node_modules/load-json-file/index.js:18:47)

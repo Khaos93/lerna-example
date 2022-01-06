@@ -1,0 +1,27 @@
+{
+  "name": "server-react2",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "juan castro <juan.castro@geniussports.com>",
+  "homepage": "https://github.com/Khaos93/lerna-example#readme",
+  "license": "ISC",
+  "main": "src/index.js",
+  "dependencies": {
+    "jsog": "1.0.7",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "react-tournament-bracket": "0.1.0",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/styles": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "react-scripts build"
+  },
+  "bugs": {
+    "url": "https://github.com/Khaos93/lerna-example/issues"
+  }
+}

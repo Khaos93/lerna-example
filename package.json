@@ -8,11 +8,14 @@
     "test": "lerna run test",
     "new-version": "lerna version",
     "diff": "lerna diff",
+    "changed": "lerna changed",
     "install": "lerna bootstrap",
     "install-hoist": "lerna bootstrap --hoist",
     "clean": "lerna clean",
     "version": "lerna version --conventional-commits --yes",
     "publish": "lerna publish from-package",
-    "ls": "lerna ls"
+    "ls": "lerna ls",
+    "list": "lerna list --json",    
+    "list-graph": "lerna list --graph"
   }
 }

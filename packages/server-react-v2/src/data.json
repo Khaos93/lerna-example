@@ -1,0 +1,603 @@
+{
+  "groups": [
+    {
+      "name": "west",
+      "position": "top_left",
+      "rounds": {
+        "start_date": "",
+        "finished_date": "",
+        "fixtures": [
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "west",
+      "position": "top_left",
+      "rounds": {
+        "start_date": "",
+        "finished_date": "",
+        "fixtures": [
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Kansas",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "Chicago",
+                "seed": "1"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "west2",
+      "position": "top_left2",
+      "rounds": {
+        "start_date": "",
+        "finished_date": "",
+        "fixtures": [
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "west3",
+      "position": "top_left2",
+      "rounds": {
+        "start_date": "",
+        "finished_date": "",
+        "fixtures": [
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          },
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "west4",
+      "position": "top_left2",
+      "rounds": {
+        "start_date": "",
+        "finished_date": "",
+        "fixtures": [
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              },
+              {
+                "id": "123",
+                "name": "NewYork",
+                "seed": "1"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "west4",
+      "position": "top_left2",
+      "rounds": {
+        "start_date": "",
+        "finished_date": "",
+        "fixtures": [
+          {
+            "fixture_id": "123",
+            "location": "New york",
+            "status": "post_match",
+            "competitors": [
+              {
+                "id": "123",
+                "name": "Oklahoma",
+                "seed": "1"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

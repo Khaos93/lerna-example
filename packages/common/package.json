@@ -9,6 +9,7 @@
     "@material-ui/core": "latest",
     "@material-ui/icons": "latest",
     "@material-ui/styles": "latest",
+    "babel-core": "^6.26.3",
     "graphql-yoga": "^1.14.7",
     "jsog": "1.0.7",
     "react": "16.3.2",
