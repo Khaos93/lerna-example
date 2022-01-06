@@ -12,7 +12,7 @@
     "install-hoist": "lerna bootstrap --hoist",
     "clean": "lerna clean",
     "version": "lerna version --conventional-commits --yes",
-    "publish": "lerna publish",
+    "publish": "lerna publish from-git",
     "ls": "lerna ls"
   }
 }
