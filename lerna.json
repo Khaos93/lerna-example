@@ -2,12 +2,5 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent",
-  "command": {
-    "publish": {
-      "ignoreChanges": ["ignored-file", "*.md"],
-      "message": "chore(release): publish",
-      "registry": "https://www.npmjs.com/org/lernaworkshop"
-    }
-  }
+  "version": "independent"
 }
