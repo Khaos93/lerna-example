@@ -10,5 +10,5 @@
   "scripts": {
     "test": "echo testing server with version: $npm_package_version"
   },
-  "gitHead": "6620f83da8db45ba9759e9590440917995109ad8"
+  "gitHead": "d063b7d3821c986d56438607de8c493f8ada09a3"
 }
