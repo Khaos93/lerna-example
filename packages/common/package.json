@@ -1,6 +1,6 @@
 {
   "name": "@lernaworkshop/common",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "main": "index.js",
   "scripts": {
     "test": "echo testing common with version: $npm_package_version"
