@@ -18,4 +18,6 @@ module.exports = () => {
   console.log("feature V5");
   console.log("feature V5");  
   console.log("feature V6");
+   
+  console.log("feature V7");
 };
