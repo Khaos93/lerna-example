@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.14](https://github.com/Khaos93/lerna-example/compare/@lernaworkshop/server@1.1.12...@lernaworkshop/server@1.1.14) (2022-01-07)
+
+**Note:** Version bump only for package @lernaworkshop/server
+
+
+
+
+
 ## [1.1.12](https://github.com/Khaos93/lerna-example/compare/@lernaworkshop/server@1.1.11...@lernaworkshop/server@1.1.12) (2022-01-06)
 
 **Note:** Version bump only for package @lernaworkshop/server
